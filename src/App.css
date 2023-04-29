@@ -1,0 +1,15 @@
+.heading{
+    border: double;
+    background-color: lightcyan;
+    text-align: center;
+    color: gray;
+    width: 50%;
+    transform: translateX(50%);
+}
+
+.slot{
+  text-align: center;
+  background-color: lightgrey;
+  width: 50%;
+  transform: translateX(50%);
+}
